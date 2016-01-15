@@ -1,0 +1,18 @@
+/*NAVBAR*/
+nav {
+  opacity: 0.65;
+  position: absolute; }
+  nav .navbar {
+    min-height: 65px; }
+
+/*HEADER*/
+header {
+  background: #37291e url("../img/bg-header.jpg") no-repeat;
+  background-size: cover; }
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  background: none;
+  opacity: 0.65; }
+
+.fill1 {
+  background-size: cover; }
